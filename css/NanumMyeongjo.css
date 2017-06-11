@@ -5,23 +5,23 @@
     font-family: 'Nanum Myeongjo';
     font-style: normal;
     font-weight: 400;
-    src: url(../fonts/NanumMyeongjo-Regular.eot);
-    src: url(../fonts/NanumMyeongjo-Regular.eot?#iefix) format('embedded-opentype'), url(../fonts/NanumMyeongjo-Regular.woff2) format('woff2'), url(../fonts/NanumMyeongjo-Regular.woff) format('woff'), url(../fonts/NanumMyeongjo-Regular.ttf) format('truetype');
+    src: url(../fonts/nanummyeongjo-regular.eot);
+    src: url(../fonts/nanummyeongjo-regular.eot?#iefix) format('embedded-opentype'), url(../fonts/nanummyeongjo-regular.woff2) format('woff2'), url(../fonts/nanummyeongjo-regular.woff) format('woff'), url(../fonts/nanummyeongjo-regular.ttf) format('truetype');
 }
 
 @font-face {
     font-family: 'Nanum Myeongjo';
     font-style: normal;
     font-weight: 700;
-    src: url(../fonts/NanumMyeongjo-Bold.eot);
-    src: url(../fonts/NanumMyeongjo-Bold.eot?#iefix) format('embedded-opentype'), url(../fonts/NanumMyeongjo-Bold.woff2) format('woff2'), url(../fonts/NanumMyeongjo-Bold.woff) format('woff'), url(../fonts/NanumMyeongjo-Bold.ttf) format('truetype');
+    src: url(../fonts/nanummyeongjo-bold.eot);
+    src: url(../fonts/nanummyeongjo-bold.eot?#iefix) format('embedded-opentype'), url(../fonts/nanummyeongjo-bold.woff2) format('woff2'), url(../fonts/nanummyeongjo-bold.woff) format('woff'), url(../fonts/nanummyeongjo-bold.ttf) format('truetype');
 }
 
 @font-face {
     font-family: 'Nanum Myeongjo';
     font-style: normal;
     font-weight: 800;
-    src: url(../fonts/NanumMyeongjo-ExtraBold.eot);
-    src: url(../fonts/NanumMyeongjo-ExtraBold.eot?#iefix) format('embedded-opentype'), url(../fonts/NanumMyeongjo-ExtraBold.woff2) format('woff2'), url(../fonts/NanumMyeongjo-ExtraBold.woff) format('woff'), url(../fonts/NanumMyeongjo-ExtraBold.ttf) format('truetype');
+    src: url(../fonts/nanummyeongjo-extrabold.eot);
+    src: url(../fonts/nanummyeongjo-extrabold.eot?#iefix) format('embedded-opentype'), url(../fonts/nanummyeongjo-extrabold.woff2) format('woff2'), url(../fonts/nanummyeongjo-extrabold.woff) format('woff'), url(../fonts/nanummyeongjo-extrabold.ttf) format('truetype');
 }
 

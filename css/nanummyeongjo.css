@@ -1,0 +1,27 @@
+/* 
+ * Nanum Myeongjo (Korean) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+    font-family: 'Nanum Myeongjo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/nanummyeongjo-regular.eot);
+    src: url(../fonts/nanummyeongjo-regular.eot?#iefix) format('embedded-opentype'), url(../fonts/nanummyeongjo-regular.woff2) format('woff2'), url(../fonts/nanummyeongjo-regular.woff) format('woff'), url(../fonts/nanummyeongjo-regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nanum Myeongjo';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../fonts/nanummyeongjo-bold.eot);
+    src: url(../fonts/nanummyeongjo-bold.eot?#iefix) format('embedded-opentype'), url(../fonts/nanummyeongjo-bold.woff2) format('woff2'), url(../fonts/nanummyeongjo-bold.woff) format('woff'), url(../fonts/nanummyeongjo-bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nanum Myeongjo';
+    font-style: normal;
+    font-weight: 800;
+    src: url(../fonts/nanummyeongjo-extrabold.eot);
+    src: url(../fonts/nanummyeongjo-extrabold.eot?#iefix) format('embedded-opentype'), url(../fonts/nanummyeongjo-extrabold.woff2) format('woff2'), url(../fonts/nanummyeongjo-extrabold.woff) format('woff'), url(../fonts/nanummyeongjo-extrabold.ttf) format('truetype');
+}
+

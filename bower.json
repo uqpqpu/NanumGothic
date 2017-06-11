@@ -1,12 +1,12 @@
 {
-  "name": "NanumMyeongjo",
-  "version": "0.1.1",
+  "name": "nanummyeongjo",
+  "version": "0.1.2",
   "homepage": "https://github.com/uqpqpu/NanumMyeongjo",
   "authors": [
     "uqpqpu <mn0l0nm@hotmail.com>"
   ],
   "description": "나눔명조 웹폰트, sass less 추가",
-  "main": "NanumMyeongjo.css",
+  "main": "nanummyeongjo.css",
   "keywords": [
     "NanumMyeongjo",
     "NanumMyeongjo",
