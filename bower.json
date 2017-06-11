@@ -1,18 +1,18 @@
 {
-  "name": "NanumGothic",
+  "name": "NanumMyeongjo",
   "version": "0.1.0",
-  "homepage": "https://github.com/demun/NanumGothic",
+  "homepage": "https://github.com/uqpqpu/NanumMyeongjo",
   "authors": [
     "demun <hjm01@naver.com>"
   ],
-  "description": "나눔고딕 웹폰트, sass less 추가",
-  "main": "NanumGothic.css",
+  "description": "나눔명조 웹폰트, sass less 추가",
+  "main": "NanumMyeongjo.css",
   "keywords": [
-    "NanumGothic",
-    "nanumgothic",
-    "nanumgothicwebfont",
-    "나눔고딕웹폰트",
-    "나눔고딕"
+    "NanumMyeongjo",
+    "NanumMyeongjo",
+    "nanummyeongjowebfont",
+    "나눔명조웹폰트",
+    "나눔명조"
   ],
   "license": "SIL OPEN FONT LICENSE",
   "ignore": [
