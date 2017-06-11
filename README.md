@@ -26,7 +26,7 @@ Web Font Version of Nanum Myeongjo. Created by [NAVER](http://www.naver.com) in 
 ** Bower 를 통해 설치**
 
 ```sh
-bower install NanumMyeongjo
+bower install nanummyeongjo
 ```
 
 
@@ -36,7 +36,7 @@ bower install NanumMyeongjo
 `html` 의 `<head>` 에 `css` 삽입
 
 ```html
-<link href='NanumMyeongjo.css' rel='stylesheet' type='text/css'>
+<link href='nanummyeongjo.css' rel='stylesheet' type='text/css'>
 ```
 
 `css` 에서 설정
