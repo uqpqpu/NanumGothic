@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "homepage": "https://github.com/uqpqpu/NanumMyeongjo",
   "authors": [
-    "demun <hjm01@naver.com>"
+    "uqpqpu <mn0l0nm@hotmail.com>"
   ],
   "description": "나눔명조 웹폰트, sass less 추가",
   "main": "NanumMyeongjo.css",
